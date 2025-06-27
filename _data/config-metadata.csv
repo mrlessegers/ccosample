@@ -8,6 +8,7 @@ creator,Creator,,
 date,Date Created,,
 subject,Subjects,true
 location,Location,,
+description,Description,,
 dimensions,Dimensions,,
 materials,Materials & Techniques,,
 source,Source Collection,,
