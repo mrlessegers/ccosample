@@ -1,14 +1,17 @@
 field,display_name,browse_link,external_link
+identifier,Source Identifier,,
+level,Catalog Level,, 
+classification,Classification,,
+worktype,Work Type,,
 title,Title,
 creator,Creator,
 date,Date Created,
-description,Description,
 subject,Subjects,true
 location,Location
-latitude,Latitude
-longitude,Longitude
+description,Description,
+dimensions,Dimensions,,
+materials,Materials & Techniques,,
 source,Source
-identifier,Source Identifier,,
 type,Type,
 format,Format,
 rights,Rights,
