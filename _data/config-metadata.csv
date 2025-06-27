@@ -1,18 +1,15 @@
 field,display_name,browse_link,external_link
-identifier,Source Identifier,,
+identifier,Identifier,,
 level,Catalog Level,, 
 classification,Classification,,
 worktype,Work Type,,
-title,Title,
-creator,Creator,
-date,Date Created,
+title,Title,,
+creator,Creator,,
+date,Date Created,,
 subject,Subjects,true
-location,Location
-description,Description,
+location,Location,,
 dimensions,Dimensions,,
 materials,Materials & Techniques,,
-source,Source
-type,Type,
-format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+source,Source Collection,,
+type,Type,,
+format,Format,,
